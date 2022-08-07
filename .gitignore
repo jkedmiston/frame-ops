@@ -1,0 +1,3 @@
+*~
+*.so
+cython_example/*.c
